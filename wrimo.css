@@ -1,0 +1,47 @@
+
+@page { 
+	size: 6in 8in; 
+	margin: .6in;
+}
+
+body {
+	font-family: 'Gentium Book Basic', serif;
+}
+
+p {
+	orphans:4; 
+	widows:3;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 1in;
+	padding-bottom: 0.5in;
+}
+
+.subtitle {
+	text-align: center;
+	font-size: 55%;
+}
+
+h2 {
+	page-break-before: right;
+	padding-top: 2in;
+}
+
+
+.author {
+	font-size: 130%;
+	text-align: center;
+}
+
+.auth-desc {
+	font-style: italic;
+	text-align: center;
+}
+
+.source {
+	font-size: 90%;
+	text-align: center;
+	padding-top: 0.5in
+}
