@@ -11,4 +11,4 @@ _mollysday.ipynb_ is the python notebook where the action happens, including dea
 
 _mollysfeed.html_ is the finished novel, and _mollysfeed.pdf_ is the printable version with nice margins.
 
-#NaNoGenMo2015: https://github.com/dariusk/NaNoGenMo-2015
+*NaNoGenMo2015*: https://github.com/dariusk/NaNoGenMo-2015
