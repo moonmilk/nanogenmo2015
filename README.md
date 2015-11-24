@@ -10,3 +10,5 @@ _searchterms.txt_ is a handmade list of phrases I came up with while reading Mol
 _mollysday.ipynb_ is the python notebook where the action happens, including dead ends and mistakes. After some messing around, the best result seemed to be to sort the twitter texts by decreasing lengths, so it starts slow and gets breathless by the end. Sometimes it randomly duplicates a text, to ~~disorient the reader~~ pad the word count.
 
 _mollysfeed.html_ is the finished novel, and _mollysfeed.pdf_ is the printable version with nice margins.
+
+#NaNoGenMo2015: https://github.com/dariusk/NaNoGenMo-2015
