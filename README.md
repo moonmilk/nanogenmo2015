@@ -1,7 +1,7 @@
 # nanogenmo2015
 project for Darius Kazemi's national novel generation month, 2015
 
-Molly Bloom checks her twitter feed.
+Inspired by Molly's monologue at the end of James Joyce's _Ulysses_: Molly Bloom checks her twitter feed. Download the final result here: https://github.com/moonmilk/nanogenmo2015/raw/master/mollysfeed.pdf
 
 _searchterms.txt_ is a handmade list of phrases I came up with while reading Molly's monologue, to be used as twitter search terms. The idea was to pick phrases that have some of the flavor of the monologue but are generic enough to match a lot of stuff.
 
